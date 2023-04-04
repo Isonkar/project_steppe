@@ -1,4 +1,4 @@
-##project_steppe
+#project_steppe
 ********************************
 Скрипт №1 - calcilation_sugar.py
 
